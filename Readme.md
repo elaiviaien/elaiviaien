@@ -49,9 +49,7 @@
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
 </p>
 
-<p align="center">
-	<img style="margin: auto;" src=https://github-readme-stats.vercel.app/api?username=Kv1lon&show_icons=true alt=Kv1lon /> 
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kv1lon&layout=compact)
 
 <p align="center">
 <a href=https://twitter.com/_skrypnyk_ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="Kv1lon" height="40" width="40" /></a>
