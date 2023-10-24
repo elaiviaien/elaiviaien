@@ -19,12 +19,15 @@
 - 😄 Employement **Hireable**
 - 📫 How to reach me **skrypnyk.michael@gmail.com**
 <h4>Programming Languages: </h4>
+
 [![Programming Languages:](https://skillicons.dev/icons?i=js,c,cs,py)](https://skillicons.dev)
 
 <h4>Desktop Environment: </h4>
+
 [![Desktop Environment](https://skillicons.dev/icons?i=git,kubernetes,docker,neovim,github&perline=8)](https://skillicons.dev)
 
 <h4>Tech stack: </h4>
+
 [![My Skills](https://skillicons.dev/icons?i=graphql,mongodb,mysql,aws,gcp,azure,jenkins,nginx,postgres,redis,selenium,vue,webpack,django,fastapi&perline=8)](https://skillicons.dev)
 
 
