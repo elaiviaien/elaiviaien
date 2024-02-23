@@ -18,7 +18,7 @@
 - 💬 Ask me about **Web Develpoment**
 - 😄 Employement **Hireable**
 - 📫 How to reach me:
-**skrypnyk.michael@gmail.com**, **skrypnyk@elaiviaien.com**
+**skrypnyk.michael@gmail.com**
 <h4>Programming Languages: </h4>
 
 [![Programming Languages:](https://skillicons.dev/icons?i=js,c,cs,py)](https://skillicons.dev)
