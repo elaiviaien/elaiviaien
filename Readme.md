@@ -14,7 +14,7 @@
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🎓 KPI FICE student 1 course
-- 🔭 I’m currently working on **FinInsightsUa**
+- 🔭 I’m currently working on **Smaug**
 - 💬 Ask me about **Web Develpoment**
 - 😄 Employement **Hireable**
 - 📫 How to reach me:
