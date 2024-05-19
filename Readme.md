@@ -4,8 +4,8 @@
     <img src="https://img.shields.io/badge/twitter-_skrypnyk_-blue">
   </a>
   
-  <a href="https://www.instagram.com/0l1verq/">
-    <img src="https://img.shields.io/badge/instagram-0l1verq-red">
+  <a href="https://t.me/liumphis">
+    <img src="https://img.shields.io/badge/telegram-liumphis-red">
   </a>
 </p>
 
