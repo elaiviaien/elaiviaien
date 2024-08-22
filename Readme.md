@@ -11,9 +11,9 @@
 
 <h3 align="center">A passionate developer from Ukraine</h3>
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="25%" align="right" alt="86" src="https://i.ibb.co/GJZ9N9K/output-onlinepngtools.png" />
 
-- 🎓 KPI FICE student
+- 🎓 KPI FICE student 2 course
 - 🔭 I’m currently working on **Smaug**
 - 📫 How to reach me:
 **skrypnyk.michael@gmail.com**
