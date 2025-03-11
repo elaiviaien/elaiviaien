@@ -19,7 +19,7 @@
 **skrypnyk.michael@gmail.com**
 <h4>Programming Languages: </h4>
 
-[![Programming Languages:](https://skillicons.dev/icons?i=py,js,c,cs)](https://skillicons.dev)
+[![Programming Languages:](https://skillicons.dev/icons?i=py,js)](https://skillicons.dev)
 
 <h4>Desktop Environment: </h4>
 
@@ -27,6 +27,6 @@
 
 <h4>Tech stack: </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,aws,gcp,azure,jenkins,nginx,postgres,redis,selenium,vue,webpack,django,fastapi&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,fastapi,azure,mongodb,aws,gcp,jenkins,nginx,postgres,redis,selenium,vue&perline=8)](https://skillicons.dev)
 
 
